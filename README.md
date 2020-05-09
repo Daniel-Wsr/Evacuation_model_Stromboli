@@ -11,3 +11,13 @@ For additional information please see "Info" in NetLogo
 
 Additional MATLAB Code for fast plotting and processing of results of the NetLogo code
 Instructions: please see comments in MATLAB
+
+Contact:
+Michael Erb
+michael.erb@student.uni-tubeingen.de 
+Daniel Janz 
+daniel.janz2@gmx.de 
+Annika Hiller 
+annika.hiller@student.uni-tuebingen.de 
+Daniel Weissenrieder 
+daniel.weissenrieder@student.uni-tuebingen.de
