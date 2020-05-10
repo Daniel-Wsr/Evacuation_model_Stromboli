@@ -14,7 +14,7 @@ Instructions: please see comments in MATLAB
 
 ## Contact:
 Michael Erb
-michael.erb@student.uni-tubeingen.de 
+michael.erb@student.uni-tuebingen.de 
 Daniel Janz 
 daniel.janz2@gmx.de 
 Annika Hiller 
